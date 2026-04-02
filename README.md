@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Pavan Gowda
 
-### Aspiring Software Developer · Python Enthusiast · Lifelong Learner
+### ☁️ Cloud & DevOps Enthusiast · Python Developer · Infrastructure Learner
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD4F7&center=true&vCenter=true&width=435&lines=Python+Developer+in+the+making...;Open+to+opportunities!;Let's+build+something+amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD4F7&center=true&vCenter=true&width=500&lines=Aspiring+Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Automating+everything%2C+one+script+at+a+time;Open+to+internships+%26+opportunities!)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,31 +12,75 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Fresher passionate about **Python development** and building real-world applications
-- 🌱 Currently learning and growing every day — focused on writing clean, efficient code
-- 💡 I enjoy solving problems, automating things, and turning ideas into working software
-- 🎯 Looking for **entry-level opportunities** where I can contribute, learn, and grow
+- 🎓 Fresher with a strong focus on **Cloud Computing** and **DevOps Engineering**
+- ☁️ Passionate about building reliable, scalable, and automated infrastructure
+- 🐍 Python scripting for automation and tooling
+- 🔧 Exploring CI/CD, containerisation, and cloud-native workflows
+- 🎯 Actively seeking **entry-level Cloud / DevOps roles and internships**
 - 📍 Based in **India**
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### Languages
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🔄 DevOps & CI/CD
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 💻 Languages & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-### Frameworks & Libraries
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 📡 Monitoring & Networking
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Tools & Platforms
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 🔹 [Cloud Infrastructure Automation](#)
+> Provisioned AWS EC2 instances and S3 buckets using **Terraform** with reusable modules. Integrated remote state management via S3 backend.
+- **Stack:** Terraform · AWS EC2 · S3 · IAM
+- **Highlights:** Modular IaC design, state locking with DynamoDB
+
+---
+
+### 🔹 [CI/CD Pipeline with GitHub Actions](#)
+> Built an end-to-end CI/CD pipeline for a Python Flask app — automated testing, Docker image build & push to Docker Hub, and deployment trigger.
+- **Stack:** GitHub Actions · Docker · Python · Flask
+- **Highlights:** Multi-stage pipeline, secret management, Docker Hub integration
+
+---
+
+### 🔹 [Dockerised Microservices App](#)
+> Containerised a multi-service Python application using Docker Compose with networking and volume management.
+- **Stack:** Docker · Docker Compose · Python · Nginx
+- **Highlights:** Service isolation, reverse proxy setup, environment variable injection
+
+---
+
+### 🔹 [Linux System Monitoring Script](#)
+> Python + Bash script to monitor CPU, memory, and disk usage and send email alerts when thresholds are exceeded.
+- **Stack:** Python · Bash · Linux · SMTP
+- **Highlights:** Cron job scheduling, threshold-based alerting
 
 ---
 
@@ -59,10 +103,20 @@
 
 ## 🌱 Currently Learning
 
-- ☁️ Cloud fundamentals — AWS
-- 🐳 Containerisation with Docker & orchestration with Kubernetes
-- 🔄 CI/CD pipelines — GitHub Actions & Jenkins
-- 🛠️ Infrastructure as Code with Terraform
+- ☁️ AWS Solutions Architect concepts (VPC, EKS, RDS, CloudWatch)
+- 🐳 Advanced Kubernetes — Helm charts, RBAC, namespaces
+- 🔄 GitOps workflow with ArgoCD
+- 🛡️ Cloud security fundamentals & IAM best practices
+
+---
+
+## 🏆 Certifications & Goals
+
+| Status | Certification |
+|--------|--------------|
+| 🎯 In Progress | AWS Certified Cloud Practitioner (CLF-C02) |
+| 🎯 Planned | AWS Solutions Architect – Associate (SAA-C03) |
+| 🎯 Planned | Docker Certified Associate |
 
 ---
 
@@ -80,8 +134,12 @@
 
 <div align="center">
 
-### 💬 Open to internships, collaborations, and entry-level roles!
-### ⭐ Feel free to explore my repositories and drop a star if you find something useful
+```
+☁️  Infrastructure is code. Automate everything. Ship faster. ☁️
+```
+
+### 💬 Open to Cloud / DevOps internships and entry-level roles!
+### ⭐ Star a repo if you find it useful — it means a lot!
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pavangowdats1718.pavangowdats1718)
 
