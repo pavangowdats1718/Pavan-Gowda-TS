@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Pavan Gowda
 
-### ☁️ Cloud & DevOps Enthusiast · Python Developer · Infrastructure Learner
+### ☁️ Cloud & DevOps Enthusiast · Python · Infrastructure Learner
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD4F7&center=true&vCenter=true&width=500&lines=Aspiring+Cloud+%26+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;Automating+everything%2C+one+script+at+a+time;Open+to+internships+%26+opportunities!)](https://git.io/typing-svg)
 
