@@ -54,35 +54,9 @@
 
 ---
 
-## 🚀 Projects
 
-### 🔹 [Cloud Infrastructure Automation](#)
-> Provisioned AWS EC2 instances and S3 buckets using **Terraform** with reusable modules. Integrated remote state management via S3 backend.
-- **Stack:** Terraform · AWS EC2 · S3 · IAM
-- **Highlights:** Modular IaC design, state locking with DynamoDB
 
----
 
-### 🔹 [CI/CD Pipeline with GitHub Actions](#)
-> Built an end-to-end CI/CD pipeline for a Python Flask app — automated testing, Docker image build & push to Docker Hub, and deployment trigger.
-- **Stack:** GitHub Actions · Docker · Python · Flask
-- **Highlights:** Multi-stage pipeline, secret management, Docker Hub integration
-
----
-
-### 🔹 [Dockerised Microservices App](#)
-> Containerised a multi-service Python application using Docker Compose with networking and volume management.
-- **Stack:** Docker · Docker Compose · Python · Nginx
-- **Highlights:** Service isolation, reverse proxy setup, environment variable injection
-
----
-
-### 🔹 [Linux System Monitoring Script](#)
-> Python + Bash script to monitor CPU, memory, and disk usage and send email alerts when thresholds are exceeded.
-- **Stack:** Python · Bash · Linux · SMTP
-- **Highlights:** Cron job scheduling, threshold-based alerting
-
----
 
 ## 📊 GitHub Stats
 
