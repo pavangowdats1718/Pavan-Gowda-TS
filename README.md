@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Pavan Gowda
+# 👋 Hi, I'm Pavan Gowda T S
 
 ### ☁️ Cloud & DevOps Enthusiast · Python · Infrastructure Learner
 
